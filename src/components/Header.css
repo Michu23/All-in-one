@@ -1,0 +1,27 @@
+
+
+.app-header {
+    background: rgb(43, 43, 57);
+    color: white;
+    padding: 20px;
+    top: 0;
+    left: 0;
+    position: relative;
+    top: -8px;
+    left: -8px;
+    width: 100%;
+    padding-right: 100px;
+}
+.header-menu {
+    cursor: pointer;
+    float: right;
+}
+.app-header .header-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.app-header span {
+    padding-right: 30px;
+}
+
